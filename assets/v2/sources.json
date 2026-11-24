@@ -1,0 +1,5 @@
+{
+ "head":"head.png", "head-sleep":"head-sleep.png", "body":"body.png", "arm":"arm.png", "leg":"leg.png", "tail":"tail.png",
+ "sky":"sky.png", "far":"far.png", "middle":"middle.png", "foreground":"foreground.png",
+ "laptop":"laptop.png", "map":"map.png", "backpack":"backpack.png", "books":"books.png", "camera":"camera.png"
+}

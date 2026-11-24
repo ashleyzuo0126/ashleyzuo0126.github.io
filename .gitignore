@@ -1,0 +1,11 @@
+node_modules/
+demo-workspaces/**/node_modules
+demo-workspaces/**/.wrangler/
+demo-workspaces/**/demo.db*
+demo-workspaces/raw-video/
+.next/
+out/
+*.tsbuildinfo
+.DS_Store
+.env*
+public/art/

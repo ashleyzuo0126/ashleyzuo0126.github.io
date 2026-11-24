@@ -1,0 +1,50 @@
+{
+  "music": "/audio/light.mp3",
+  "projects": {
+    "my-screenwriter": 
+      { 
+        "screenshots": [
+          {"src":"/media/my-screenwriter/03-human-review.png","alt":{"zh":"本地 Mock 演示：剧本与人工审阅工作台","en":"Local mock demo: screenplay and human review workspace"}},
+          {"src":"/media/my-screenwriter/02-creative-brief.png","alt":{"zh":"本地演示：创建剧本与创作约束","en":"Local demo: project creation and creative brief"}},
+          {"src":"/media/my-screenwriter/04-feedback.png","alt":{"zh":"本地演示：填写人工修改意见","en":"Local demo: writing human feedback"}}
+        ], 
+        "video": "/media/my-screenwriter/walkthrough.mp4", 
+        "demoUrl": "" 
+      },
+    "William": 
+      { 
+        "screenshots": [
+          {"src":"/media/William/01-today.png","alt":{"zh":"原 Demo 视频截图：Today 情绪感知与日程建议","en":"Original demo frame: Today, emotional awareness and schedule suggestions"}},
+          {"src":"/media/William/02-conversation.png","alt":{"zh":"原 Demo 视频截图：经典模式对话","en":"Original demo frame: classic-mode conversation"}},
+          {"src":"/media/William/03-suggestions.png","alt":{"zh":"原 Demo 视频截图：行动与练习建议","en":"Original demo frame: suggested actions and practices"}},
+          {"src":"/media/William/04-memory.png","alt":{"zh":"原 Demo 视频截图：长期记忆与待处理事项","en":"Original demo frame: long-term memory and active tasks"}},
+          {"src":"/media/William/05-digital-expert.png","alt":{"zh":"原 Demo 视频截图：数字专家模式","en":"Original demo frame: digital expert mode"}}
+        ], 
+        "video": "/media/William/walkthrough.mp4", 
+        "demoUrl": "" 
+      },
+    "The-Sixth-ELement": 
+      { 
+        "screenshots": [
+          {"src":"/media/The-Sixth-ELement/01-task-hall.png","alt":{"zh":"本地演示：任务大厅（模拟数据）","en":"Local demo: task hall with simulated data"}},
+          {"src":"/media/The-Sixth-ELement/03-points.png","alt":{"zh":"本地演示：积分与趋势（模拟数据）","en":"Local demo: points and trends with simulated data"}},
+          {"src":"/media/The-Sixth-ELement/04-create-survey.png","alt":{"zh":"本地演示：创建问卷","en":"Local demo: survey creation"}}
+        ], 
+        "video": "/media/The-Sixth-ELement/walkthrough.mp4", 
+        "demoUrl": "" 
+      },
+    "feishu_xl_tools": { "screenshots": [], "video": "", "demoUrl": "" },
+    "e-commerce": { "screenshots": [], "video": "", "demoUrl": "" },
+    "Ultimate-data-science-take-home-challenge-sample": {
+      "screenshots": [],
+      "video": "",
+      "demoUrl": ""
+    },
+    "DSA_LearningMaterial": { "screenshots": [], "video": "", "demoUrl": "" },
+    "aixiachuang_official_site": {
+      "screenshots": ["/media/aixiachuang/display.png"],
+      "video": "/media/aixiachuang/walkthrough.mp4",
+      "demoUrl": ""
+    }
+  }
+}
