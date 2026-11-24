@@ -235,7 +235,7 @@ export default function Home({ lang }: { lang: Lang }) {
                   : "Every project is a field note from the journey."}
               </p>
               <a
-                href="https://github.com/ashley20040126"
+                href="https://github.com/ashleyzuo0126"
                 target="_blank"
                 rel="noreferrer"
               >

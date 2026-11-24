@@ -2,7 +2,7 @@
 
 Bilingual illustrated portfolio featuring AI products, automation and product design.
 
-Live website: https://ashley20040126.github.io/
+Live website: https://ashleyzuo0126.github.io/
 
 ## Development
 

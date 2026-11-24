@@ -175,7 +175,7 @@ export default function Shell({
                 : "Reduce motion"}
           </button>
           <a
-            href="https://github.com/ashley20040126"
+            href="https://github.com/ashleyzuo0126"
             target="_blank"
             rel="noreferrer"
           >
